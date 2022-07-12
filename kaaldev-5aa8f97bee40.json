@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kaaldev",
+  "private_key_id": "5aa8f97bee40246e03b9ee65b21508c7c53ef546",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC1rU+Y0Hf+OPy1\nkbAJ6TLS/akXG0qw2gennPpZODGmCYPkFCfLE8sNp+dl54DwZ5jDBilciGGA2gFL\n+h0674qrMRbMjFi+Z8xix/84iKiC0Mbl0pfRLUlCWwVpPEpO56uZ4BYp0XG1ib3E\nv7nD6rU7zbOcbk6N6plCmVK1qk/6iUPeOmQY0Ab2Nvon+BSQPe8rWlyOwi8E26Sb\nAenJNwdq+McsNgBz2J8Go3M82rLCF4m2RW2NdmAFaZglW/cxZyk769eYDWhfLaJj\nsZX8sUY62KS2WXe05uSWqxcaurziEmNjblYE56uqw583YyRPgvIC9vz9WSSX136N\nmV5wS8hJAgMBAAECggEALch4pB549rheutT1g3HgjHo/F+MZTfsL7cnp7vzxyhFg\nyuPnaU5aH91du3j9Ldg1j4QofTijNaj6pa5omlcOX3jV8YM2w/j9cTFMWG9b4+eA\nEB+jgaPDb/TnJq96XGsWfAcUHsK4wJJvH7tfMYee12zNpBDKPApQSA/CX6SFVjG+\nwuYXpnWo3Tk1DHcdi1lT2t/6cVohgepyYVtCkjDn4NHdkfcIaLRZhGRVwKY0qKSB\nztpQa/g7lPs/30JkkCyplFeTT5m6J8eWjd0RTnJG7oT42Jh8fZ7dTzFUGMKC108+\nHZyJJy1nDfctWmIHwqN0KzmCCu/bm5OS/zypJ2O1TwKBgQDz6117vl2s1lJogEc/\nbeRZS81fPeGHHRjDToZIZRolxcQDV7TKCYyCDzjtw5cHa6jIgnNU8Orkm40O4Y8G\nYp7VdOIjUTFkKBvW4xtQkmEk3cbede38sP2bFudEYIfG5WVUE3QfQ0Max1ZsPQsT\noncnZIX1a/rrAFIQgIS1eTK3wwKBgQC+rMd+KG/d74eneim4tOb6ieehzZYfm5+A\nzYnmXJhriPvHW+6KSQVzRR9zJPz/UH5LeEjvVjdeCV166UHrKhvHS6qTIEUnKzkp\nSBfcd+PmO2FhObnniINpGpkjRliSTjUz4WzCV/txdIocTLNQnP/nz78EQmLny9kv\nqgWQa1TLAwKBgQCmHSxVEZgKFQuaT4I2GEji51S+AA6PTamHmPqqYvAjuUN8Y0ak\nMUyXZnaGtiUs0IzpwK16s3fEqIqwD7yvxIoXJLq9ApZ4dzg+Z/w6KvYtfTvqVLX2\n2TJdZIOrdXICakdPss/qWoxguFCK9ieM/5/WHAd+1ELVuCorQtseG6QGsQKBgQCV\n2NMuojjIAeZqB+eh8QlU++u9jQPd8z92yhEFqN9gI1c7ZVQh+SD/ZeNBamAphei7\nBtzKusbocBO29HmJhp4uEZkL5uBx19YkSzP1X4MK/L+a2PLwsqgTgYO35SDWWgAV\ntaLzWJGSqDOh6eVCBSBX3TwQ7Nstr1YPz15wEOmiYQKBgQDAhRAJAf3wNh4ZfBe0\nKimpjq3LOhrmpMpQ/wBoXOfNJWSiE0l2FoMV0ehEHm3ei95lESsXK0QBqjwJnypB\nZDp7O2jFT45z7IUMtUv6Zym5dYguivr9aQ7z9CUAXe83Nwm61uhfYNROs9QRr/mb\nODptVXDK98Z7uz0z3EWD3pa9Iw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kaaldevlyrics@kaaldev.iam.gserviceaccount.com",
+  "client_id": "108042218121790032707",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kaaldevlyrics%40kaaldev.iam.gserviceaccount.com"
+}
